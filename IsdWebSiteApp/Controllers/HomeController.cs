@@ -15,7 +15,7 @@ namespace IsdWebSiteApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "INNOVATIVE SOFTWARE DESIGN (since 1998)";
 
             return View();
         }
